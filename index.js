@@ -1,8 +1,8 @@
 const express = require("express");
 const app = express();
 const port = process.env.PORT || 5000;
-// const categories = require("./data/categories.json");
-// const news = require("./data/news.json");
+const chefs = require("./data/ChefMarquee.json");
+const info = require("./data/ChefInfo.json");
 
 const cors = require('cors');
 app.use(cors());
@@ -11,13 +11,13 @@ app.get("/", (req, res) => {
     res.send('Dragon is running!!!');
 });
 
-// app.get("/categories", (req, res) => {
-//     res.send(categories);
-// });
+app.get("/chefs", (req, res) => {
+    res.send(chefs);
+});
 
-// app.get("/news", (req, res) => {
-//     res.send(news);
-// });
+app.get("/info", (req, res) => {
+    res.send(info);
+});
 
 // app.get("/news/:ID", (req, res) => {
 //     const ID = req.params.ID;
