@@ -44,7 +44,7 @@
         "experience" : 5,
         "recipes" : 45,
         "bio": "Tadashi Hamada is a skilled sushi chef with over 5 years of experience in creating delicious and authentic Japanese sushi dishes. He has trained in some of the best sushi restaurants in Tokyo, and now is working with us ..",
-        "likes" : 10452,
+        "likes" : 12051,
         "view_recipes" : [
             {
                 "id" : 1,
@@ -82,7 +82,121 @@
         "experience" : 5,
         "recipes" : 45,
         "bio": "Sakura Hinachi is a skilled sushi chef with over 5 years of experience in creating delicious and authentic Japanese sushi dishes. He has trained in some of the best sushi restaurants in Tokyo, and now is working with us ..",
-        "likes" : 10452,
+        "likes" : 9852,
+        "view_recipes" : [
+            {
+                "id" : 1,
+                "img" : "https://media.istockphoto.com/id/1157558501/photo/various-kinds-of-sushi-rolls-served-on-black-stone-background.jpg?s=612x612&w=0&k=20&c=brNOMvjm8XF1SzF_Idq1j5b2gbxL1rtYTauRL6c2z4Q=",
+                "ingredients" : "Nori seaweed, sushi rice, cucumber, avocado, crab meat",
+                "name": "Nigiri Sushi",
+                "info" : "Nigiri sushi is a classic Japanese sushi dish consisting of bite-sized pieces of sushi rice topped with slices of fresh fish or other seafood. Sakura Hinachi's nigiri sushi is known for its exquisite taste and perfect texture, which is achieved through careful preparation and attention to detail.",
+                "method" : "To make nigiri sushi, Sakura Hinachi starts by making the perfect sushi rice, which involves rinsing the rice several times, then cooking it with just the right amount of water and seasoning it with vinegar, sugar, and salt. She then carefully cuts the fresh fish into thin slices and places it on top of the sushi rice, adding a small amount of wasabi and soy sauce for flavor.",
+                "rating" : "4.7"
+            },
+            {
+                "id" : 2,
+                "img" : "https://media.istockphoto.com/id/510949884/photo/sashimi.jpg?s=612x612&w=0&k=20&c=UHNH7_2uisMKS4H2sg1P74tFH4pNYm2YvJZ07bUzhVM=",
+                "ingredients" : "Nori seaweed, sushi rice, cucumber, avocado, crab meat",
+                "name": "Maki Sushi",
+                "info" : "Maki sushi is a type of sushi that is rolled into a cylindrical shape using nori seaweed, sushi rice, and a variety of fillings. Sakura Hinachi's maki sushi is known for its creative and unique flavor combinations, as well as its beautiful presentation.",
+                "method" : "To make maki sushi, Sakura Hinachi starts by preparing the sushi rice and cutting the fillings into thin strips. She then places a sheet of nori seaweed on a bamboo mat, spreads a thin layer of sushi rice on top, and adds the fillings. She then rolls the mat tightly to create a cylinder shape, and slices the sushi into bite-sized pieces.",
+                "rating" : "5"
+            },
+            {
+                "id" : 3,
+                "img" : "https://media.istockphoto.com/id/476576550/photo/sushi.jpg?s=612x612&w=0&k=20&c=70a5oGvCSDI9SV0dKmmzvntF-hmvRW_kOpb4zO2WMhc=",
+                "ingredients" : "Nori seaweed, sushi rice, cucumber, avocado, crab meat",
+                "name": "Temaki Sushi",
+                "info" : "Temaki sushi, also known as a hand roll, is a type of sushi that is shaped like a cone and typically eaten with the hands. This recipe combines fresh avocado, cucumber, and crab meat with a spicy mayonnaise sauce, wrapped in a sheet of nori seaweed and sushi rice.",
+                "method" : "1. Lay a sheet of nori seaweed on a flat surface with the shiny side facing down.\n2. Wet your hands with water and take a small amount of sushi rice (about 1/4 cup) and spread it evenly over the nori, leaving a 1-inch border at the top of the sheet.\n3. Place a few slices of avocado, cucumber, and crab meat on top of the rice.\n4. In a small bowl, mix together the mayonnaise and sriracha sauce. Drizzle the sauce over the ingredients in the roll.\n5. Roll the sushi by tucking the bottom edge of the nori sheet over the ingredients, then rolling it tightly towards the top border of the sheet, forming a cone shape.\n6. Serve with soy sauce on the side for dipping.",
+                "rating" : "5"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "Sakura Hinachi",
+        "Image" : "https://media.istockphoto.com/id/1423295463/photo/image-of-young-asian-woman-at-home.jpg?s=612x612&w=0&k=20&c=aIh5ZvzcLP96WysMxKIqlkUYb5oSE2_4JhyHKrtvOq4=",
+        "experience" : 5,
+        "recipes" : 45,
+        "bio": "Sakura Hinachi is a skilled sushi chef with over 5 years of experience in creating delicious and authentic Japanese sushi dishes. He has trained in some of the best sushi restaurants in Tokyo, and now is working with us ..",
+        "likes" : 9852,
+        "view_recipes" : [
+            {
+                "id" : 1,
+                "img" : "https://media.istockphoto.com/id/1157558501/photo/various-kinds-of-sushi-rolls-served-on-black-stone-background.jpg?s=612x612&w=0&k=20&c=brNOMvjm8XF1SzF_Idq1j5b2gbxL1rtYTauRL6c2z4Q=",
+                "ingredients" : "Nori seaweed, sushi rice, cucumber, avocado, crab meat",
+                "name": "Nigiri Sushi",
+                "info" : "Nigiri sushi is a classic Japanese sushi dish consisting of bite-sized pieces of sushi rice topped with slices of fresh fish or other seafood. Sakura Hinachi's nigiri sushi is known for its exquisite taste and perfect texture, which is achieved through careful preparation and attention to detail.",
+                "method" : "To make nigiri sushi, Sakura Hinachi starts by making the perfect sushi rice, which involves rinsing the rice several times, then cooking it with just the right amount of water and seasoning it with vinegar, sugar, and salt. She then carefully cuts the fresh fish into thin slices and places it on top of the sushi rice, adding a small amount of wasabi and soy sauce for flavor.",
+                "rating" : "4.7"
+            },
+            {
+                "id" : 2,
+                "img" : "https://media.istockphoto.com/id/510949884/photo/sashimi.jpg?s=612x612&w=0&k=20&c=UHNH7_2uisMKS4H2sg1P74tFH4pNYm2YvJZ07bUzhVM=",
+                "ingredients" : "Nori seaweed, sushi rice, cucumber, avocado, crab meat",
+                "name": "Maki Sushi",
+                "info" : "Maki sushi is a type of sushi that is rolled into a cylindrical shape using nori seaweed, sushi rice, and a variety of fillings. Sakura Hinachi's maki sushi is known for its creative and unique flavor combinations, as well as its beautiful presentation.",
+                "method" : "To make maki sushi, Sakura Hinachi starts by preparing the sushi rice and cutting the fillings into thin strips. She then places a sheet of nori seaweed on a bamboo mat, spreads a thin layer of sushi rice on top, and adds the fillings. She then rolls the mat tightly to create a cylinder shape, and slices the sushi into bite-sized pieces.",
+                "rating" : "5"
+            },
+            {
+                "id" : 3,
+                "img" : "https://media.istockphoto.com/id/476576550/photo/sushi.jpg?s=612x612&w=0&k=20&c=70a5oGvCSDI9SV0dKmmzvntF-hmvRW_kOpb4zO2WMhc=",
+                "ingredients" : "Nori seaweed, sushi rice, cucumber, avocado, crab meat",
+                "name": "Temaki Sushi",
+                "info" : "Temaki sushi, also known as a hand roll, is a type of sushi that is shaped like a cone and typically eaten with the hands. This recipe combines fresh avocado, cucumber, and crab meat with a spicy mayonnaise sauce, wrapped in a sheet of nori seaweed and sushi rice.",
+                "method" : "1. Lay a sheet of nori seaweed on a flat surface with the shiny side facing down.\n2. Wet your hands with water and take a small amount of sushi rice (about 1/4 cup) and spread it evenly over the nori, leaving a 1-inch border at the top of the sheet.\n3. Place a few slices of avocado, cucumber, and crab meat on top of the rice.\n4. In a small bowl, mix together the mayonnaise and sriracha sauce. Drizzle the sauce over the ingredients in the roll.\n5. Roll the sushi by tucking the bottom edge of the nori sheet over the ingredients, then rolling it tightly towards the top border of the sheet, forming a cone shape.\n6. Serve with soy sauce on the side for dipping.",
+                "rating" : "5"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "name": "Sakura Hinachi",
+        "Image" : "https://media.istockphoto.com/id/1423295463/photo/image-of-young-asian-woman-at-home.jpg?s=612x612&w=0&k=20&c=aIh5ZvzcLP96WysMxKIqlkUYb5oSE2_4JhyHKrtvOq4=",
+        "experience" : 5,
+        "recipes" : 45,
+        "bio": "Sakura Hinachi is a skilled sushi chef with over 5 years of experience in creating delicious and authentic Japanese sushi dishes. He has trained in some of the best sushi restaurants in Tokyo, and now is working with us ..",
+        "likes" : 9852,
+        "view_recipes" : [
+            {
+                "id" : 1,
+                "img" : "https://media.istockphoto.com/id/1157558501/photo/various-kinds-of-sushi-rolls-served-on-black-stone-background.jpg?s=612x612&w=0&k=20&c=brNOMvjm8XF1SzF_Idq1j5b2gbxL1rtYTauRL6c2z4Q=",
+                "ingredients" : "Nori seaweed, sushi rice, cucumber, avocado, crab meat",
+                "name": "Nigiri Sushi",
+                "info" : "Nigiri sushi is a classic Japanese sushi dish consisting of bite-sized pieces of sushi rice topped with slices of fresh fish or other seafood. Sakura Hinachi's nigiri sushi is known for its exquisite taste and perfect texture, which is achieved through careful preparation and attention to detail.",
+                "method" : "To make nigiri sushi, Sakura Hinachi starts by making the perfect sushi rice, which involves rinsing the rice several times, then cooking it with just the right amount of water and seasoning it with vinegar, sugar, and salt. She then carefully cuts the fresh fish into thin slices and places it on top of the sushi rice, adding a small amount of wasabi and soy sauce for flavor.",
+                "rating" : "4.7"
+            },
+            {
+                "id" : 2,
+                "img" : "https://media.istockphoto.com/id/510949884/photo/sashimi.jpg?s=612x612&w=0&k=20&c=UHNH7_2uisMKS4H2sg1P74tFH4pNYm2YvJZ07bUzhVM=",
+                "ingredients" : "Nori seaweed, sushi rice, cucumber, avocado, crab meat",
+                "name": "Maki Sushi",
+                "info" : "Maki sushi is a type of sushi that is rolled into a cylindrical shape using nori seaweed, sushi rice, and a variety of fillings. Sakura Hinachi's maki sushi is known for its creative and unique flavor combinations, as well as its beautiful presentation.",
+                "method" : "To make maki sushi, Sakura Hinachi starts by preparing the sushi rice and cutting the fillings into thin strips. She then places a sheet of nori seaweed on a bamboo mat, spreads a thin layer of sushi rice on top, and adds the fillings. She then rolls the mat tightly to create a cylinder shape, and slices the sushi into bite-sized pieces.",
+                "rating" : "5"
+            },
+            {
+                "id" : 3,
+                "img" : "https://media.istockphoto.com/id/476576550/photo/sushi.jpg?s=612x612&w=0&k=20&c=70a5oGvCSDI9SV0dKmmzvntF-hmvRW_kOpb4zO2WMhc=",
+                "ingredients" : "Nori seaweed, sushi rice, cucumber, avocado, crab meat",
+                "name": "Temaki Sushi",
+                "info" : "Temaki sushi, also known as a hand roll, is a type of sushi that is shaped like a cone and typically eaten with the hands. This recipe combines fresh avocado, cucumber, and crab meat with a spicy mayonnaise sauce, wrapped in a sheet of nori seaweed and sushi rice.",
+                "method" : "1. Lay a sheet of nori seaweed on a flat surface with the shiny side facing down.\n2. Wet your hands with water and take a small amount of sushi rice (about 1/4 cup) and spread it evenly over the nori, leaving a 1-inch border at the top of the sheet.\n3. Place a few slices of avocado, cucumber, and crab meat on top of the rice.\n4. In a small bowl, mix together the mayonnaise and sriracha sauce. Drizzle the sauce over the ingredients in the roll.\n5. Roll the sushi by tucking the bottom edge of the nori sheet over the ingredients, then rolling it tightly towards the top border of the sheet, forming a cone shape.\n6. Serve with soy sauce on the side for dipping.",
+                "rating" : "5"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "Sakura Hinachi",
+        "Image" : "https://media.istockphoto.com/id/1423295463/photo/image-of-young-asian-woman-at-home.jpg?s=612x612&w=0&k=20&c=aIh5ZvzcLP96WysMxKIqlkUYb5oSE2_4JhyHKrtvOq4=",
+        "experience" : 5,
+        "recipes" : 45,
+        "bio": "Sakura Hinachi is a skilled sushi chef with over 5 years of experience in creating delicious and authentic Japanese sushi dishes. He has trained in some of the best sushi restaurants in Tokyo, and now is working with us ..",
+        "likes" : 9852,
         "view_recipes" : [
             {
                 "id" : 1,
