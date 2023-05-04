@@ -42,13 +42,13 @@
         "name": "Tadashi Hamada",
         "Image" : "https://media.istockphoto.com/id/1465286710/photo/male-chef-working-with-a-smile.jpg?s=612x612&w=0&k=20&c=EuY8auUqWehgQazu4CzoFaCIfDULomjb3iaeBm2ulTQ=",
         "experience" : 5,
-        "recipes" : 45,
+        "recipes" : 42,
         "bio": "Tadashi Hamada is a skilled sushi chef with over 5 years of experience in creating delicious and authentic Japanese sushi dishes. He has trained in some of the best sushi restaurants in Tokyo, and now is working with us ..",
         "likes" : 12051,
         "view_recipes" : [
             {
                 "id" : 1,
-                "img" : "https://media.istockphoto.com/id/1157558501/photo/various-kinds-of-sushi-rolls-served-on-black-stone-background.jpg?s=612x612&w=0&k=20&c=brNOMvjm8XF1SzF_Idq1j5b2gbxL1rtYTauRL6c2z4Q=",
+                "img" : "https://media.istockphoto.com/id/1127291339/photo/ramen-asian-noodle-in-broth-with-meat-and-ajitama-pickled-egg-in-bowl-on-dark-background.jpg?s=612x612&w=0&k=20&c=D7b7Va0LaVmvXAHY4sj5C0vgG3oQfejmP1z_yU7oD7Q=",
                 "ingredients" : "Nori seaweed, sushi rice, cucumber, avocado, crab meat",
                 "name": "Nigiri Sushi",
                 "info" : "Nigiri sushi is a classic Japanese sushi dish consisting of bite-sized pieces of sushi rice topped with slices of fresh fish or other seafood. Tadashi Hamada's nigiri sushi is known for its exquisite taste and perfect texture, which is achieved through careful preparation and attention to detail.",
@@ -80,7 +80,7 @@
         "name": "Sakura Hinachi",
         "Image" : "https://media.istockphoto.com/id/1423295463/photo/image-of-young-asian-woman-at-home.jpg?s=612x612&w=0&k=20&c=aIh5ZvzcLP96WysMxKIqlkUYb5oSE2_4JhyHKrtvOq4=",
         "experience" : 6,
-        "recipes" : 45,
+        "recipes" : 47,
         "bio": "Sakura Hinachi is a skilled sushi chef with over 5 years of experience in creating delicious and authentic Japanese sushi dishes. He has trained in some of the best sushi restaurants in Tokyo, and now is working with us ..",
         "likes" : 9852,
         "view_recipes" : [
@@ -118,9 +118,9 @@
         "name": "Naruto Osaka",
         "Image" : "https://media.istockphoto.com/id/1193328827/photo/chef-preparing-cuisine-in-kitchen-portrait.jpg?s=612x612&w=0&k=20&c=LFRJFglTocsRvUC5xBjutkqxo9bkHJbXXRMX6sjze90=",
         "experience" : 4,
-        "recipes" : 45,
+        "recipes" : 49,
         "bio": "Naruto Osaka is a skilled sushi chef with over 5 years of experience in creating delicious and authentic Japanese sushi dishes. He has trained in some of the best sushi restaurants in Tokyo, and now is working with us ..",
-        "likes" : 9852,
+        "likes" : 7857,
         "view_recipes" : [
             {
                 "id" : 1,
@@ -156,9 +156,9 @@
         "name": "Kim Genos",
         "Image" : "https://media.istockphoto.com/id/1298296165/photo/the-chef-is-holding-the-bread-he-just-finished-chef-good-cheerful-professional-cook-having.jpg?s=612x612&w=0&k=20&c=ZCkaMTl410rG3nAK7Lj-zmfQPAtSBbjY_zLELozpcug=",
         "experience" : 4,
-        "recipes" : 45,
+        "recipes" : 39,
         "bio": "Kim Genos is a skilled sushi chef with over 5 years of experience in creating delicious and authentic Japanese sushi dishes. He has trained in some of the best sushi restaurants in Tokyo, and now is working with us ..",
-        "likes" : 9852,
+        "likes" : 10585,
         "view_recipes" : [
             {
                 "id" : 1,
@@ -194,9 +194,9 @@
         "name": "Onuka Mishi",
         "Image" : "https://media.istockphoto.com/id/1456762107/photo/entrepreneur-made-pizza-for-sale-small-business.jpg?s=612x612&w=0&k=20&c=B7fLbVWTn4P2rEvHk87IrbOMMBa7AGeZHyTVVcIBXqU=",
         "experience" : 5,
-        "recipes" : 45,
+        "recipes" : 41,
         "bio": "Onuka Mishi is a skilled sushi chef with over 5 years of experience in creating delicious and authentic Japanese sushi dishes. He has trained in some of the best sushi restaurants in Tokyo, and now is working with us ..",
-        "likes" : 9852,
+        "likes" : 12011,
         "view_recipes" : [
             {
                 "id" : 1,
