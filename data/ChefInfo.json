@@ -1,11 +1,11 @@
 [
     {
         "id": 1,
-        "name": "Nijuka Ochimu",
+        "name": "Emi Nakamura",
         "Image" : "https://media.istockphoto.com/id/1155020587/photo/making-sushi.jpg?s=612x612&w=0&k=20&c=3qgHbutRT8yzajkYm6Klv_ys-1RWnza-vvbjpOEgAC8=",
         "experience" : 7,
         "recipes" : 45,
-        "bio": "Nijuka Ochimu is a skilled sushi chef with over 7 years of experience in creating delicious and authentic Japanese sushi dishes. She has trained in some of the best sushi restaurants in Tokyo, and now is working with us ..",
+        "bio": "Emi Nakamura is a skilled sushi chef with over 7 years of experience in creating delicious and authentic Japanese sushi dishes. She has trained in some of the best sushi restaurants in Tokyo, and now is working with us ..",
         "likes" : 10452,
         "view_recipes" : [
             {
@@ -77,11 +77,11 @@
     },
     {
         "id": 3,
-        "name": "Sakura Hinachi",
+        "name": "Mei Yamamoto",
         "Image" : "https://media.istockphoto.com/id/1423295463/photo/image-of-young-asian-woman-at-home.jpg?s=612x612&w=0&k=20&c=aIh5ZvzcLP96WysMxKIqlkUYb5oSE2_4JhyHKrtvOq4=",
         "experience" : 6,
         "recipes" : 47,
-        "bio": "Sakura Hinachi is a skilled sushi chef with over 5 years of experience in creating delicious and authentic Japanese sushi dishes. He has trained in some of the best sushi restaurants in Tokyo, and now is working with us ..",
+        "bio": "Mei Yamamoto is a skilled sushi chef with over 5 years of experience in creating delicious and authentic Japanese sushi dishes. She has trained in some of the best sushi restaurants in Tokyo, and now is working with us ..",
         "likes" : 9852,
         "view_recipes" : [
             {
@@ -115,11 +115,11 @@
     },
     {
         "id": 4,
-        "name": "Naruto Osaka",
+        "name": "Akio Nakamura",
         "Image" : "https://media.istockphoto.com/id/1193328827/photo/chef-preparing-cuisine-in-kitchen-portrait.jpg?s=612x612&w=0&k=20&c=LFRJFglTocsRvUC5xBjutkqxo9bkHJbXXRMX6sjze90=",
         "experience" : 4,
         "recipes" : 49,
-        "bio": "Naruto Osaka is a skilled sushi chef with over 5 years of experience in creating delicious and authentic Japanese sushi dishes. He has trained in some of the best sushi restaurants in Tokyo, and now is working with us ..",
+        "bio": "Akio Nakamura is a skilled sushi chef with over 5 years of experience in creating delicious and authentic Japanese sushi dishes. He has trained in some of the best sushi restaurants in Tokyo, and now is working with us ..",
         "likes" : 7857,
         "view_recipes" : [
             {
@@ -153,11 +153,11 @@
     },
     {
         "id": 5,
-        "name": "Kim Genos",
+        "name": "Hiro Tanaka",
         "Image" : "https://media.istockphoto.com/id/1298296165/photo/the-chef-is-holding-the-bread-he-just-finished-chef-good-cheerful-professional-cook-having.jpg?s=612x612&w=0&k=20&c=ZCkaMTl410rG3nAK7Lj-zmfQPAtSBbjY_zLELozpcug=",
         "experience" : 4,
         "recipes" : 39,
-        "bio": "Kim Genos is a skilled sushi chef with over 5 years of experience in creating delicious and authentic Japanese sushi dishes. He has trained in some of the best sushi restaurants in Tokyo, and now is working with us ..",
+        "bio": "Hiro Tanaka is a skilled sushi chef with over 5 years of experience in creating delicious and authentic Japanese sushi dishes. He has trained in some of the best sushi restaurants in Tokyo, and now is working with us ..",
         "likes" : 10585,
         "view_recipes" : [
             {
@@ -191,11 +191,11 @@
     },
     {
         "id": 6,
-        "name": "Onuka Mishi",
+        "name": "Yuna Suzuki",
         "Image" : "https://media.istockphoto.com/id/1456762107/photo/entrepreneur-made-pizza-for-sale-small-business.jpg?s=612x612&w=0&k=20&c=B7fLbVWTn4P2rEvHk87IrbOMMBa7AGeZHyTVVcIBXqU=",
         "experience" : 5,
         "recipes" : 41,
-        "bio": "Onuka Mishi is a skilled sushi chef with over 5 years of experience in creating delicious and authentic Japanese sushi dishes. He has trained in some of the best sushi restaurants in Tokyo, and now is working with us ..",
+        "bio": "Yuna Suzuki is a skilled sushi chef with over 5 years of experience in creating delicious and authentic Japanese sushi dishes. She has trained in some of the best sushi restaurants in Tokyo, and now is working with us ..",
         "likes" : 12011,
         "view_recipes" : [
             {
