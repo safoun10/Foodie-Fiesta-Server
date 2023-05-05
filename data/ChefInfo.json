@@ -10,7 +10,7 @@
         "view_recipes" : [
             {
                 "id" : 1,
-                "img" : "https://media.istockphoto.com/id/1385754615/photo/sushi-mix-plate.jpg?s=612x612&w=0&k=20&c=1QY00H58MSgTchmcxfzw5mi2ItIY0A9tLrWB1ScFVRU=",
+                "img" : "https://media.istockphoto.com/id/1388498852/photo/japanese-nigiri-sushi-set-sushi-with-rice-and-various-seafood-salmon-tuna-sea-scallop-and.jpg?s=612x612&w=0&k=20&c=8kukgUo79Y7Nc0gfOfF0xNm24Jc7YpiJmZsAhRycWyE=",
                 "ingredients" : "Sushi rice, fish or other seafood, wasabi, soy sauce, and sometimes, thin slices of egg omelet.",
                 "name": "Nigiri Sushi",
                 "info" : "Nigiri sushi is a Japanese dish made with vinegared sushi rice and topped with thinly sliced raw or cooked fish, typically served as a single piece with soy sauce and wasabi.",
@@ -19,7 +19,7 @@
             },
             {
                 "id" : 2,
-                "img" : "https://media.istockphoto.com/id/1179372148/photo/close-up-of-sashimi-sushi-set-with-chopsticks.jpg?s=612x612&w=0&k=20&c=s30GbJ74jTmDaFbGRZB2IvgWh2GJYMpbMzENG_cavBI=",
+                "img" : "https://media.istockphoto.com/id/1383411781/photo/homemade-sushi-for-lunch.jpg?s=612x612&w=0&k=20&c=LBJJeGJ4bqzwLiu-buynRGEgJQC98gjqrQeaKTFDlLw=",
                 "ingredients" : "Sushi rice, nori, fish or other fillings, soy sauce, and wasabi.",
                 "name": "Maki Sushi",
                 "info" : "Maki sushi is a dish made with sushi rice, seaweed, and a variety of fillings such as fish, vegetables, or meat. The ingredients are rolled into a cylindrical shape, then sliced into bite-sized pieces. It is typically served with soy sauce and wasabi and is a popular Japanese cuisine enjoyed worldwide.",
@@ -28,7 +28,7 @@
             },
             {
                 "id" : 3,
-                "img" : "https://media.istockphoto.com/id/1279359626/photo/japanese-sushi-food-maki-and-rolls-with-spicy-tuna-salmon-tofy-and-avocado-top-view-of.jpg?s=612x612&w=0&k=20&c=-Mn8KhE-3ojBbqp_DOxFrX2briXJ3zWkYhN0l9RQLLU=",
+                "img" : "https://media.istockphoto.com/id/477299443/photo/temaki.jpg?s=612x612&w=0&k=20&c=b2N7nnYI8ZJ89LbBzd4tN-Zu4JYvmADe8fXBWEUN7X4=",
                 "ingredients" : "Sushi rice, nori, fish or other fillings, wasabi, and often, thinly sliced vegetables like cucumber or avocado.",
                 "name": "Temaki Sushi",
                 "info" : "Temaki sushi, also known as hand-rolled sushi, is a cone-shaped sushi roll that is made by wrapping sushi rice and a variety of fillings such as fish, vegetables, and crab into a cone-shaped piece of nori seaweed. It is typically eaten with fingers and can be dipped into soy sauce and wasabi. Temaki sushi is a popular Japanese dish and is often served at sushi restaurants or made at home.",
