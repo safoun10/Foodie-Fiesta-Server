@@ -2,13 +2,13 @@
     {
         "id" : 1,
         "img": "https://media.istockphoto.com/id/1144614890/photo/portrait-of-a-japanese-sushi-chef.jpg?s=612x612&w=0&k=20&c=Jj2U4sPtwXgFQmL8yGy63y7OpfcB5PGxkiPIh2pDH5o=",
-        "name" : "Naruto",
+        "name" : "Satoshi Hayashi",
         "stars" : "4.7"
     },
     {
         "id" : 2,
         "img": "https://media.istockphoto.com/id/1055721452/photo/japanese-ramen-shop-owner.jpg?s=612x612&w=0&k=20&c=lWRbChtkJMnFv3jljZWgSt23Jt8dcYN9v4rEqs_hrz8=",
-        "name" : "Warren Bezos",
+        "name" : "Yuta Fujimoto",
         "stars" : "4.3"
     },
     {
@@ -20,13 +20,13 @@
     {
         "id" : 4,
         "img": "https://media.istockphoto.com/id/1404041802/photo/portrait-close-up-handsome-asian-japanese-professional-chef-wearing-black-uniform-smiling.jpg?s=612x612&w=0&k=20&c=ELy9p1wR4Q32Vgx3pcPnUcboLBbK9QdrmQY6obmN_hg=",
-        "name" : "Patla Hasan Motu",
+        "name" : "Daichi Nakano",
         "stars" : "4.5"
     },
     {
         "id" : 5,
         "img": "https://media.istockphoto.com/id/1465447082/photo/good-looking-japanese-chef-standing-in-asian-kitchen.jpg?s=612x612&w=0&k=20&c=ALjpQmEZX7q-ye0mmtoG_mualHumf2ctJiuLh_e3FKs=",
-        "name" : "Shahin",
+        "name" : "Kenji Sato",
         "stars" : "4.9"
     },
     {
@@ -38,7 +38,7 @@
     {
         "id" : 7,
         "img": "https://media.istockphoto.com/id/1456958439/photo/image-of-young-asian-woman-chef-in-the-kitchen.jpg?s=612x612&w=0&k=20&c=X9rN39A7IpKyA9jLhP6vcPoe8yqmWvxmT6U_K2D4NhU=",
-        "name" : "Kim Kimchi",
+        "name" : "Ayumi Nakajima",
         "stars" : "4.5"
     }
 ]
