@@ -157,7 +157,7 @@
         "Image" : "https://media.istockphoto.com/id/1298296165/photo/the-chef-is-holding-the-bread-he-just-finished-chef-good-cheerful-professional-cook-having.jpg?s=612x612&w=0&k=20&c=ZCkaMTl410rG3nAK7Lj-zmfQPAtSBbjY_zLELozpcug=",
         "experience" : 4,
         "recipes" : 39,
-        "bio": "Hiro Tanaka is a skilled sushi chef with over 5 years of experience in creating delicious and authentic Japanese sushi dishes. He has trained in some of the best sushi restaurants in Tokyo, and now is working with us ..",
+        "bio": "Hiro Tanaka is a skilled yakitori chef with over 5 years of experience in creating delicious and authentic Japanese yakitori dishes. He has trained in some of the best yakitori restaurants in Tokyo, and now is working with us ..",
         "likes" : 10585,
         "view_recipes" : [
             {
@@ -200,29 +200,29 @@
         "view_recipes" : [
             {
                 "id" : 1,
-                "img" : "https://media.istockphoto.com/id/1157558501/photo/various-kinds-of-sushi-rolls-served-on-black-stone-background.jpg?s=612x612&w=0&k=20&c=brNOMvjm8XF1SzF_Idq1j5b2gbxL1rtYTauRL6c2z4Q=",
-                "ingredients" : "Nori seaweed, sushi rice, cucumber, avocado, crab meat",
-                "name": "Nigiri Sushi",
-                "info" : "Nigiri sushi is a classic Japanese sushi dish consisting of bite-sized pieces of sushi rice topped with slices of fresh fish or other seafood. Onuka Mishi's nigiri sushi is known for its exquisite taste and perfect texture, which is achieved through careful preparation and attention to detail.",
-                "method" : "To make nigiri sushi, Onuka Mishi starts by making the perfect sushi rice, which involves rinsing the rice several times, then cooking it with just the right amount of water and seasoning it with vinegar, sugar, and salt. She then carefully cuts the fresh fish into thin slices and places it on top of the sushi rice, adding a small amount of wasabi and soy sauce for flavor.",
+                "img" : "https://media.istockphoto.com/id/1138130414/photo/hiroshima-style-okonomiyaki-in-hiroshima-prefecture-japan-okonomiyaki-is-a-japanese-style.jpg?s=612x612&w=0&k=20&c=UowsseMkfiOLx6FBTNTjMF-oo9Gq8HTyngFWoKYmuE8=",
+                "ingredients" : "Okonomiyaki batter (made with flour, eggs, dashi, and shredded cabbage), pork belly, yakisoba noodles, green onions, and okonomiyaki sauce.",
+                "name": "Hiroshima-style Okonomiyaki",
+                "info" : "Hiroshima-style Okonomiyaki is a savory Japanese pancake made with batter, cabbage, pork belly, yakisoba noodles, green onions, and a variety of other optional ingredients. Unlike the Osaka-style Okonomiyaki, the ingredients are layered rather than mixed together. It is often topped with a sweet Worcestershire-based sauce, mayonnaise, and seaweed flakes.",
+                "method" : "To make Hiroshima-style Okonomiyaki, start by mixing flour, grated yam, water, and eggs to make the batter. Heat up a griddle or large skillet and pour the batter onto the hot surface, making a large circle. Place shredded cabbage, bean sprouts, and sliced pork belly on top of the batter, and crack an egg on top. Using a spatula, carefully flip the Okonomiyaki over and cook until the egg is cooked through and the bottom is golden brown. Slide the Okonomiyaki onto a plate and top with Okonomiyaki sauce, mayonnaise, and bonito flakes. Serve hot. Hiroshima-style Okonomiyaki is a delicious and hearty Japanese dish that is perfect as a main dish or a snack. With a little practice, you can make flavorful and satisfying Hiroshima-style Okonomiyaki at home using simple ingredients.",
                 "rating" : "4.7"
             },
             {
                 "id" : 2,
-                "img" : "https://media.istockphoto.com/id/510949884/photo/sashimi.jpg?s=612x612&w=0&k=20&c=UHNH7_2uisMKS4H2sg1P74tFH4pNYm2YvJZ07bUzhVM=",
-                "ingredients" : "Nori seaweed, sushi rice, cucumber, avocado, crab meat",
-                "name": "Maki Sushi",
-                "info" : "Maki sushi is a type of sushi that is rolled into a cylindrical shape using nori seaweed, sushi rice, and a variety of fillings. Onuka Mishi's maki sushi is known for its creative and unique flavor combinations, as well as its beautiful presentation.",
-                "method" : "To make maki sushi, Onuka Mishi starts by preparing the sushi rice and cutting the fillings into thin strips. She then places a sheet of nori seaweed on a bamboo mat, spreads a thin layer of sushi rice on top, and adds the fillings. She then rolls the mat tightly to create a cylinder shape, and slices the sushi into bite-sized pieces.",
+                "img" : "https://media.istockphoto.com/id/979443772/photo/osaka-style-cabbage-pancakes-shallow-depth-of-field.jpg?s=612x612&w=0&k=20&c=-Qo7P5AqRMUmEm6buecHztdv4Fq0qyItj2HNiet-SF0=",
+                "ingredients" : "Okonomiyaki batter (made with flour, eggs, dashi, and shredded cabbage), sliced pork belly, green onions, tenkasu (tempura bits), and okonomiyaki sauce",
+                "name": "Osaka-style Okonomiyaki",
+                "info" : "Osaka-style Okonomiyaki is a savory Japanese pancake made with a batter of flour, eggs, shredded cabbage, and yamaimo (Japanese mountain yam), mixed with various ingredients like seafood, meat, or vegetables. It is typically grilled on a hotplate and topped with a variety of condiments, such as okonomiyaki sauce, mayonnaise, and bonito flakes.",
+                "method" : "To make Osaka-style Okonomiyaki, start by mixing flour, water, eggs, and grated yam to make the batter. Heat up a griddle or large skillet and pour the batter onto the hot surface, making a large circle. Place shredded cabbage, thinly sliced pork belly, and green onions on top of the batter. Using a spatula, carefully flip the Okonomiyaki over and cook until both sides are golden brown. Brush Okonomiyaki sauce onto the top of the Okonomiyaki and top with mayonnaise, bonito flakes, and aonori (dried seaweed flakes). Serve hot. Osaka-style Okonomiyaki is a popular Japanese dish that is perfect as a main dish or a snack. With a little practice, you can make flavorful and satisfying Osaka-style Okonomiyaki at home using simple ingredients.",
                 "rating" : "5"
             },
             {
                 "id" : 3,
-                "img" : "https://media.istockphoto.com/id/476576550/photo/sushi.jpg?s=612x612&w=0&k=20&c=70a5oGvCSDI9SV0dKmmzvntF-hmvRW_kOpb4zO2WMhc=",
-                "ingredients" : "Nori seaweed, sushi rice, cucumber, avocado, crab meat",
-                "name": "Temaki Sushi",
-                "info" : "Temaki sushi, also known as a hand roll, is a type of sushi that is shaped like a cone and typically eaten with the hands. This recipe combines fresh avocado, cucumber, and crab meat with a spicy mayonnaise sauce, wrapped in a sheet of nori seaweed and sushi rice.",
-                "method" : "1. Lay a sheet of nori seaweed on a flat surface with the shiny side facing down.\n2. Wet your hands with water and take a small amount of sushi rice (about 1/4 cup) and spread it evenly over the nori, leaving a 1-inch border at the top of the sheet.\n3. Place a few slices of avocado, cucumber, and crab meat on top of the rice.\n4. In a small bowl, mix together the mayonnaise and sriracha sauce. Drizzle the sauce over the ingredients in the roll.\n5. Roll the sushi by tucking the bottom edge of the nori sheet over the ingredients, then rolling it tightly towards the top border of the sheet, forming a cone shape.\n6. Serve with soy sauce on the side for dipping.",
+                "img" : "https://media.istockphoto.com/id/1363253121/photo/japanese-traditional-pizza-okonomiyaki.jpg?s=612x612&w=0&k=20&c=4bBZ0zBp1AJGTHIc6L6WXqIBI4vL2SvWgU5nzPUTcag=",
+                "ingredients" : "Okonomiyaki batter (made with flour, water, and dashi), seafood or meat, cabbage, bonito flakes, and Worcestershire-like sauce",
+                "name": "Monjayaki",
+                "info" : "Monjayaki is a popular Japanese dish consisting of a type of runny pancake made with various ingredients such as cabbage, seafood, meat, and cheese. It is cooked on a hot iron plate and eaten with a spatula. It originated in Tokyo and is often compared to okonomiyaki, another Japanese pancake-like dish.",
+                "method" : "To make Monjayaki, start by mixing flour, dashi (Japanese stock), and water to make a thin batter. Add shredded cabbage, sliced squid, and other ingredients of your choice such as shrimp, pork, or cheese. Heat up a griddle or large skillet and pour the batter onto the hot surface, making a large circle. Using chopsticks or a spatula, mix the ingredients together in the batter until it becomes a thick and gooey consistency. Continue cooking until the bottom is crispy and golden brown. Use a spatula to divide the Monjayaki into smaller pieces and serve hot. Monjayaki is a popular Japanese dish that originated in Tokyo and is often described as a cross between Okonomiyaki and Yakisoba. With a little practice, you can make flavorful and delicious Monjayaki at home using simple ingredients.",
                 "rating" : "5"
             }
         ]
