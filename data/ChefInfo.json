@@ -11,28 +11,28 @@
             {
                 "id" : 1,
                 "img" : "https://media.istockphoto.com/id/1385754615/photo/sushi-mix-plate.jpg?s=612x612&w=0&k=20&c=1QY00H58MSgTchmcxfzw5mi2ItIY0A9tLrWB1ScFVRU=",
-                "ingredients" : "Nori seaweed, sushi rice, cucumber, avocado, crab meat",
+                "ingredients" : "Sushi rice, fish or other seafood, wasabi, soy sauce, and sometimes, thin slices of egg omelet.",
                 "name": "Nigiri Sushi",
-                "info" : "Nigiri sushi is a classic Japanese sushi dish consisting of bite-sized pieces of sushi rice topped with slices of fresh fish or other seafood. Nijuka Ochimu's nigiri sushi is known for its exquisite taste and perfect texture, which is achieved through careful preparation and attention to detail.",
-                "method" : "To make nigiri sushi, Nijuka Ochimu starts by making the perfect sushi rice, which involves rinsing the rice several times, then cooking it with just the right amount of water and seasoning it with vinegar, sugar, and salt. She then carefully cuts the fresh fish into thin slices and places it on top of the sushi rice, adding a small amount of wasabi and soy sauce for flavor.",
+                "info" : "Nigiri sushi is a Japanese dish made with vinegared sushi rice and topped with thinly sliced raw or cooked fish, typically served as a single piece with soy sauce and wasabi.",
+                "method" : "To make nigiri sushi, start by preparing sushi rice and shaping it into small, oblong shapes. Next, slice your fresh fish into thin pieces, making sure to remove any bones or skin. Dab a small amount of wasabi onto the top of the rice and place the fish slice on top, gently pressing it down to adhere. You can also add a small strip of nori or other toppings like egg, shrimp, or tofu. Nigiri sushi is a simple yet elegant dish that requires fresh, high-quality ingredients and precise technique to achieve the perfect balance of flavors.",
                 "rating" : "4.8"
             },
             {
                 "id" : 2,
                 "img" : "https://media.istockphoto.com/id/1179372148/photo/close-up-of-sashimi-sushi-set-with-chopsticks.jpg?s=612x612&w=0&k=20&c=s30GbJ74jTmDaFbGRZB2IvgWh2GJYMpbMzENG_cavBI=",
-                "ingredients" : "Nori seaweed, sushi rice, cucumber, avocado, crab meat",
+                "ingredients" : "Sushi rice, nori, fish or other fillings, soy sauce, and wasabi.",
                 "name": "Maki Sushi",
-                "info" : "Maki sushi is a type of sushi that is rolled into a cylindrical shape using nori seaweed, sushi rice, and a variety of fillings. Nijuka Ochimu's maki sushi is known for its creative and unique flavor combinations, as well as its beautiful presentation.",
-                "method" : "To make maki sushi, Nijuka Ochimu starts by preparing the sushi rice and cutting the fillings into thin strips. She then places a sheet of nori seaweed on a bamboo mat, spreads a thin layer of sushi rice on top, and adds the fillings. She then rolls the mat tightly to create a cylinder shape, and slices the sushi into bite-sized pieces.",
+                "info" : "Maki sushi is a dish made with sushi rice, seaweed, and a variety of fillings such as fish, vegetables, or meat. The ingredients are rolled into a cylindrical shape, then sliced into bite-sized pieces. It is typically served with soy sauce and wasabi and is a popular Japanese cuisine enjoyed worldwide.",
+                "method" : "To make maki sushi, start by cooking sushi rice and mixing it with sushi vinegar. Next, prepare your ingredients by cutting them into thin strips. Then, lay a sheet of nori on a bamboo mat and spread the rice evenly over it, leaving a small border. Add your ingredients in a line near the bottom of the rice. Roll the mat tightly, pressing the edges to seal. Finally, use a sharp knife to cut the roll into bite-sized pieces. With a little practice, making maki sushi can be a fun and tasty activity to enjoy with friends and family.",
                 "rating" : "4.9"
             },
             {
                 "id" : 3,
                 "img" : "https://media.istockphoto.com/id/1279359626/photo/japanese-sushi-food-maki-and-rolls-with-spicy-tuna-salmon-tofy-and-avocado-top-view-of.jpg?s=612x612&w=0&k=20&c=-Mn8KhE-3ojBbqp_DOxFrX2briXJ3zWkYhN0l9RQLLU=",
-                "ingredients" : "Nori seaweed, sushi rice, cucumber, avocado, crab meat",
+                "ingredients" : "Sushi rice, nori, fish or other fillings, wasabi, and often, thinly sliced vegetables like cucumber or avocado.",
                 "name": "Temaki Sushi",
-                "info" : "Temaki sushi, also known as a hand roll, is a type of sushi that is shaped like a cone and typically eaten with the hands. This recipe combines fresh avocado, cucumber, and crab meat with a spicy mayonnaise sauce, wrapped in a sheet of nori seaweed and sushi rice.",
-                "method" : "1. Lay a sheet of nori seaweed on a flat surface with the shiny side facing down.\n2. Wet your hands with water and take a small amount of sushi rice (about 1/4 cup) and spread it evenly over the nori, leaving a 1-inch border at the top of the sheet.\n3. Place a few slices of avocado, cucumber, and crab meat on top of the rice.\n4. In a small bowl, mix together the mayonnaise and sriracha sauce. Drizzle the sauce over the ingredients in the roll.\n5. Roll the sushi by tucking the bottom edge of the nori sheet over the ingredients, then rolling it tightly towards the top border of the sheet, forming a cone shape.\n6. Serve with soy sauce on the side for dipping.",
+                "info" : "Temaki sushi, also known as hand-rolled sushi, is a cone-shaped sushi roll that is made by wrapping sushi rice and a variety of fillings such as fish, vegetables, and crab into a cone-shaped piece of nori seaweed. It is typically eaten with fingers and can be dipped into soy sauce and wasabi. Temaki sushi is a popular Japanese dish and is often served at sushi restaurants or made at home.",
+                "method" : "To make temaki sushi, start by preparing sushi rice and cutting your ingredients into small, thin pieces. Next, lay out a sheet of nori on a flat surface with the shiny side down. Take a small amount of rice and spread it over the nori, leaving a small border. Add your desired ingredients in a line near the bottom of the rice. Roll the nori into a cone shape, starting at the bottom and working your way up. Make sure to seal the edges of the cone. You can add a small strip of nori to hold the cone together. Temaki sushi is a fun and easy way to enjoy sushi at home and can be customized to suit your taste preferences.",
                 "rating" : "5"
             }
         ]
@@ -43,34 +43,34 @@
         "Image" : "https://media.istockphoto.com/id/1465286710/photo/male-chef-working-with-a-smile.jpg?s=612x612&w=0&k=20&c=EuY8auUqWehgQazu4CzoFaCIfDULomjb3iaeBm2ulTQ=",
         "experience" : 5,
         "recipes" : 42,
-        "bio": "Tadashi Hamada is a skilled sushi chef with over 5 years of experience in creating delicious and authentic Japanese sushi dishes. He has trained in some of the best sushi restaurants in Tokyo, and now is working with us ..",
+        "bio": "Tadashi Hamada is a skilled ramen chef with over 5 years of experience in creating delicious and authentic Japanese ramen dishes. He has trained in some of the best ramen restaurants in Tokyo, and now is working with us ..",
         "likes" : 12051,
         "view_recipes" : [
             {
                 "id" : 1,
-                "img" : "https://media.istockphoto.com/id/1127291339/photo/ramen-asian-noodle-in-broth-with-meat-and-ajitama-pickled-egg-in-bowl-on-dark-background.jpg?s=612x612&w=0&k=20&c=D7b7Va0LaVmvXAHY4sj5C0vgG3oQfejmP1z_yU7oD7Q=",
-                "ingredients" : "Nori seaweed, sushi rice, cucumber, avocado, crab meat",
-                "name": "Nigiri Sushi",
+                "img" : "https://media.istockphoto.com/id/1371897640/photo/asian-noodles-in-broth-with-slow-cooked-beef-on-the-wooden-table.jpg?s=612x612&w=0&k=20&c=ht9i765VvSsw7iJBTBHDu2iBF0zGP6U1W02NerpUklM=",
+                "ingredients" : "Egg noodles, shoyu (soy sauce), chicken or pork broth, sliced pork belly, and various toppings such as boiled egg, bamboo shoots, and green onions.",
+                "name": "Shoyu Ramen",
                 "info" : "Nigiri sushi is a classic Japanese sushi dish consisting of bite-sized pieces of sushi rice topped with slices of fresh fish or other seafood. Tadashi Hamada's nigiri sushi is known for its exquisite taste and perfect texture, which is achieved through careful preparation and attention to detail.",
-                "method" : "To make nigiri sushi, Tadashi Hamada starts by making the perfect sushi rice, which involves rinsing the rice several times, then cooking it with just the right amount of water and seasoning it with vinegar, sugar, and salt. She then carefully cuts the fresh fish into thin slices and places it on top of the sushi rice, adding a small amount of wasabi and soy sauce for flavor.",
+                "method" : "Shoyu Ramen is a popular Japanese noodle soup dish made with soy sauce-flavored broth. To make it, start by simmering pork bones, chicken, and aromatics for several hours to create a rich and flavorful broth. Strain the broth and season it with soy sauce, mirin, and sake. Cook your ramen noodles according to the package instructions and add them to the soup along with sliced pork, bamboo shoots, nori, green onions, and a boiled egg. Serve hot and garnish with additional toppings like sesame seeds or spicy chili oil to taste. Shoyu Ramen is a comforting and satisfying meal that is perfect for any time of year.",
                 "rating" : "4.7"
             },
             {
                 "id" : 2,
-                "img" : "https://media.istockphoto.com/id/510949884/photo/sashimi.jpg?s=612x612&w=0&k=20&c=UHNH7_2uisMKS4H2sg1P74tFH4pNYm2YvJZ07bUzhVM=",
-                "ingredients" : "Nori seaweed, sushi rice, cucumber, avocado, crab meat",
-                "name": "Maki Sushi",
+                "img" : "https://media.istockphoto.com/id/680268190/photo/miso-ramen-noodle-soup.jpg?s=612x612&w=0&k=20&c=h3BSRjyCbFhHqwoQppiLscr3iGKuHdR3uNJuu8SZa2E=",
+                "ingredients" : "Egg noodles, miso paste, chicken or pork broth, sliced pork belly, and various toppings such as corn, bean sprouts, and green onions.",
+                "name": "Miso Ramen",
                 "info" : "Maki sushi is a type of sushi that is rolled into a cylindrical shape using nori seaweed, sushi rice, and a variety of fillings. Tadashi Hamada's maki sushi is known for its creative and unique flavor combinations, as well as its beautiful presentation.",
-                "method" : "To make maki sushi, Tadashi Hamada starts by preparing the sushi rice and cutting the fillings into thin strips. She then places a sheet of nori seaweed on a bamboo mat, spreads a thin layer of sushi rice on top, and adds the fillings. She then rolls the mat tightly to create a cylinder shape, and slices the sushi into bite-sized pieces.",
+                "method" : "To make Miso Ramen, start by simmering chicken, pork bones, and aromatics to create a rich and flavorful broth. Strain the broth and mix in miso paste, soy sauce, and mirin to taste. Next, cook your ramen noodles according to the package instructions and add them to the soup along with sliced pork, bamboo shoots, corn, green onions, and a boiled egg. Finally, garnish with additional toppings like sesame seeds or chili oil, if desired. Miso Ramen is a delicious and comforting meal that is perfect for any time of year and can be customized with your favorite ingredients to suit your taste preferences.",
                 "rating" : "5"
             },
             {
                 "id" : 3,
-                "img" : "https://media.istockphoto.com/id/476576550/photo/sushi.jpg?s=612x612&w=0&k=20&c=70a5oGvCSDI9SV0dKmmzvntF-hmvRW_kOpb4zO2WMhc=",
-                "ingredients" : "Nori seaweed, sushi rice, cucumber, avocado, crab meat",
-                "name": "Temaki Sushi",
+                "img" : "https://media.istockphoto.com/id/1138946058/photo/chinese-windows-beef-windows.jpg?s=612x612&w=0&k=20&c=DPdVWGBnebwIby4hy7SZKGOyZ-RBaaVhkvMJYEsfdus=",
+                "ingredients" : "Egg noodles, pork bone broth, sliced pork belly, soft-boiled egg, and various toppings such as wood ear mushrooms, bamboo shoots, and green onions.",
+                "name": "Tonkotsu Ramen",
                 "info" : "Temaki sushi, also known as a hand roll, is a type of sushi that is shaped like a cone and typically eaten with the hands. This recipe combines fresh avocado, cucumber, and crab meat with a spicy mayonnaise sauce, wrapped in a sheet of nori seaweed and sushi rice.",
-                "method" : "1. Lay a sheet of nori seaweed on a flat surface with the shiny side facing down.\n2. Wet your hands with water and take a small amount of sushi rice (about 1/4 cup) and spread it evenly over the nori, leaving a 1-inch border at the top of the sheet.\n3. Place a few slices of avocado, cucumber, and crab meat on top of the rice.\n4. In a small bowl, mix together the mayonnaise and sriracha sauce. Drizzle the sauce over the ingredients in the roll.\n5. Roll the sushi by tucking the bottom edge of the nori sheet over the ingredients, then rolling it tightly towards the top border of the sheet, forming a cone shape.\n6. Serve with soy sauce on the side for dipping.",
+                "method" : "To make Tonkotsu Ramen, start by simmering pork bones for several hours to create a rich and creamy broth. Strain the broth and mix in soy sauce, sake, and mirin to taste. Next, cook your ramen noodles according to the package instructions and add them to the soup along with sliced pork, bamboo shoots, wood ear mushrooms, and green onions. Finally, garnish with additional toppings like boiled eggs, nori, or sesame seeds, if desired. Tonkotsu Ramen is a hearty and flavorful dish that is popular in Japan and around the world. With a little practice and patience, you can enjoy this delicious meal in the comfort of your own home.",
                 "rating" : "5"
             }
         ]
