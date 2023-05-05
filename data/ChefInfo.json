@@ -48,28 +48,28 @@
         "view_recipes" : [
             {
                 "id" : 1,
-                "img" : "https://media.istockphoto.com/id/1371897640/photo/asian-noodles-in-broth-with-slow-cooked-beef-on-the-wooden-table.jpg?s=612x612&w=0&k=20&c=ht9i765VvSsw7iJBTBHDu2iBF0zGP6U1W02NerpUklM=",
+                "img" : "https://media.istockphoto.com/id/1365977387/photo/ramen-with-steaming-sizzle.jpg?s=612x612&w=0&k=20&c=8-Dij3YocgfVa2kj37msXT_iqzIgbqq0Ta3c1G4_-A0=",
                 "ingredients" : "Egg noodles, shoyu (soy sauce), chicken or pork broth, sliced pork belly, and various toppings such as boiled egg, bamboo shoots, and green onions.",
                 "name": "Shoyu Ramen",
-                "info" : "Nigiri sushi is a classic Japanese sushi dish consisting of bite-sized pieces of sushi rice topped with slices of fresh fish or other seafood. Tadashi Hamada's nigiri sushi is known for its exquisite taste and perfect texture, which is achieved through careful preparation and attention to detail.",
+                "info" : "Shoyu Ramen is a Japanese soup dish that consists of wheat noodles in a savory broth made with soy sauce, mirin, and other seasonings. It is typically topped with sliced pork, bamboo shoots, green onions, and a boiled egg.",
                 "method" : "Shoyu Ramen is a popular Japanese noodle soup dish made with soy sauce-flavored broth. To make it, start by simmering pork bones, chicken, and aromatics for several hours to create a rich and flavorful broth. Strain the broth and season it with soy sauce, mirin, and sake. Cook your ramen noodles according to the package instructions and add them to the soup along with sliced pork, bamboo shoots, nori, green onions, and a boiled egg. Serve hot and garnish with additional toppings like sesame seeds or spicy chili oil to taste. Shoyu Ramen is a comforting and satisfying meal that is perfect for any time of year.",
                 "rating" : "4.7"
             },
             {
                 "id" : 2,
-                "img" : "https://media.istockphoto.com/id/680268190/photo/miso-ramen-noodle-soup.jpg?s=612x612&w=0&k=20&c=h3BSRjyCbFhHqwoQppiLscr3iGKuHdR3uNJuu8SZa2E=",
+                "img" : "https://media.istockphoto.com/id/1365977388/photo/ramen-with-steaming-sizzle.jpg?s=612x612&w=0&k=20&c=qZCrAGMbTrW6onrJLVqjIZiRATPmhJe8IDt8fbz3tCU=",
                 "ingredients" : "Egg noodles, miso paste, chicken or pork broth, sliced pork belly, and various toppings such as corn, bean sprouts, and green onions.",
                 "name": "Miso Ramen",
-                "info" : "Maki sushi is a type of sushi that is rolled into a cylindrical shape using nori seaweed, sushi rice, and a variety of fillings. Tadashi Hamada's maki sushi is known for its creative and unique flavor combinations, as well as its beautiful presentation.",
+                "info" : "Miso Ramen is a soup dish that has a soybean paste-based broth. It is often topped with ingredients such as sliced pork, bamboo shoots, nori seaweed, and green onions. Miso Ramen is a popular dish in Japan and is also enjoyed worldwide in Japanese restaurants.",
                 "method" : "To make Miso Ramen, start by simmering chicken, pork bones, and aromatics to create a rich and flavorful broth. Strain the broth and mix in miso paste, soy sauce, and mirin to taste. Next, cook your ramen noodles according to the package instructions and add them to the soup along with sliced pork, bamboo shoots, corn, green onions, and a boiled egg. Finally, garnish with additional toppings like sesame seeds or chili oil, if desired. Miso Ramen is a delicious and comforting meal that is perfect for any time of year and can be customized with your favorite ingredients to suit your taste preferences.",
                 "rating" : "5"
             },
             {
                 "id" : 3,
-                "img" : "https://media.istockphoto.com/id/1138946058/photo/chinese-windows-beef-windows.jpg?s=612x612&w=0&k=20&c=DPdVWGBnebwIby4hy7SZKGOyZ-RBaaVhkvMJYEsfdus=",
+                "img" : "https://media.istockphoto.com/id/1144176036/photo/japanese-ramen-noodle.jpg?s=612x612&w=0&k=20&c=Ez__L9PCXCh7Mz-GHVjQDIYw6qhM_kY1zI11eRxDixE=",
                 "ingredients" : "Egg noodles, pork bone broth, sliced pork belly, soft-boiled egg, and various toppings such as wood ear mushrooms, bamboo shoots, and green onions.",
                 "name": "Tonkotsu Ramen",
-                "info" : "Temaki sushi, also known as a hand roll, is a type of sushi that is shaped like a cone and typically eaten with the hands. This recipe combines fresh avocado, cucumber, and crab meat with a spicy mayonnaise sauce, wrapped in a sheet of nori seaweed and sushi rice.",
+                "info" : "Tonkotsu Ramen is a popular Japanese noodle dish that originated in Fukuoka, Kyushu. It's made with a rich and savory broth that's simmered for hours using pork bones, and served with thin noodles, sliced pork, green onions, and other toppings.",
                 "method" : "To make Tonkotsu Ramen, start by simmering pork bones for several hours to create a rich and creamy broth. Strain the broth and mix in soy sauce, sake, and mirin to taste. Next, cook your ramen noodles according to the package instructions and add them to the soup along with sliced pork, bamboo shoots, wood ear mushrooms, and green onions. Finally, garnish with additional toppings like boiled eggs, nori, or sesame seeds, if desired. Tonkotsu Ramen is a hearty and flavorful dish that is popular in Japan and around the world. With a little practice and patience, you can enjoy this delicious meal in the comfort of your own home.",
                 "rating" : "5"
             }
