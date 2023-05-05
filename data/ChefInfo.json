@@ -162,29 +162,29 @@
         "view_recipes" : [
             {
                 "id" : 1,
-                "img" : "https://media.istockphoto.com/id/1157558501/photo/various-kinds-of-sushi-rolls-served-on-black-stone-background.jpg?s=612x612&w=0&k=20&c=brNOMvjm8XF1SzF_Idq1j5b2gbxL1rtYTauRL6c2z4Q=",
-                "ingredients" : "Nori seaweed, sushi rice, cucumber, avocado, crab meat",
-                "name": "Nigiri Sushi",
-                "info" : "Nigiri sushi is a classic Japanese sushi dish consisting of bite-sized pieces of sushi rice topped with slices of fresh fish or other seafood. Kim Genos's nigiri sushi is known for its exquisite taste and perfect texture, which is achieved through careful preparation and attention to detail.",
-                "method" : "To make nigiri sushi, Kim Genos starts by making the perfect sushi rice, which involves rinsing the rice several times, then cooking it with just the right amount of water and seasoning it with vinegar, sugar, and salt. She then carefully cuts the fresh fish into thin slices and places it on top of the sushi rice, adding a small amount of wasabi and soy sauce for flavor.",
+                "img" : "https://media.istockphoto.com/id/1127515284/photo/negima-yakitori-glazed-japanese-grilled-chicken-skewers.jpg?s=612x612&w=0&k=20&c=U9uNisqTdLyoD-XWtPKRtyI-iCLYy6CA8JfEEiEWj6M=",
+                "ingredients" : "Chicken thighs, scallions, soy sauce, sake, and mirin",
+                "name": "Negima Yakitori",
+                "info" : "Negima Yakitori is a Japanese grilled skewered dish made with chicken and scallions. The chicken and scallions are alternated on a skewer, then seasoned with salt and grilled over charcoal.",
+                "method" : "To make Negima Yakitori, start by cutting boneless chicken thighs into bite-size pieces and cutting green onions into 2-inch pieces. Skewer the chicken and green onions alternately onto bamboo skewers. Preheat the grill to medium-high heat and grill the skewers, turning occasionally, until the chicken is cooked through and the green onions are slightly charred. In a small saucepan, heat up soy sauce, mirin, sugar, and sake to a boil and then simmer until the sauce thickens. Brush the sauce onto the grilled Negima Yakitori and serve hot. Negima Yakitori is a popular Japanese dish that is perfect as an appetizer or main dish. With a little practice, you can make flavorful and delicious Negima Yakitori at home using simple ingredients.",
                 "rating" : "4.7"
             },
             {
                 "id" : 2,
-                "img" : "https://media.istockphoto.com/id/510949884/photo/sashimi.jpg?s=612x612&w=0&k=20&c=UHNH7_2uisMKS4H2sg1P74tFH4pNYm2YvJZ07bUzhVM=",
-                "ingredients" : "Nori seaweed, sushi rice, cucumber, avocado, crab meat",
-                "name": "Maki Sushi",
-                "info" : "Maki sushi is a type of sushi that is rolled into a cylindrical shape using nori seaweed, sushi rice, and a variety of fillings. Kim Genos's maki sushi is known for its creative and unique flavor combinations, as well as its beautiful presentation.",
-                "method" : "To make maki sushi, Kim Genos starts by preparing the sushi rice and cutting the fillings into thin strips. She then places a sheet of nori seaweed on a bamboo mat, spreads a thin layer of sushi rice on top, and adds the fillings. She then rolls the mat tightly to create a cylinder shape, and slices the sushi into bite-sized pieces.",
+                "img" : "https://media.istockphoto.com/id/696995338/photo/japanese-meatball-grill-or-tsukune.jpg?s=612x612&w=0&k=20&c=EuaPXpUtI3UWWIx6RPIsJ2hzBPzDlcjfQgAcSGgyqqE=",
+                "ingredients" : "Ground chicken, egg, breadcrumbs, soy sauce, and green onions",
+                "name": "Tsukune Yakitori",
+                "info" : "Tsukune Yakitori is a type of Japanese chicken meatball skewer dish made from minced chicken, egg yolk, and various seasonings. The meatballs are skewered and grilled over charcoal until they are slightly charred and cooked through. They are often served with a sweet soy sauce glaze and garnished with green onions.",
+                "method" : "To make Tsukune Yakitori, start by mixing ground chicken with finely chopped green onions, grated ginger, and soy sauce. Form the mixture into small meatballs and skewer them onto bamboo sticks. Preheat the grill to medium-high heat and grill the skewers, turning occasionally, until the meatballs are cooked through and slightly charred. In a small saucepan, heat up soy sauce, mirin, sugar, and sake to a boil and then simmer until the sauce thickens. Brush the sauce onto the grilled Tsukune Yakitori and serve hot. Tsukune Yakitori is a popular Japanese dish that is perfect as an appetizer or main dish. With a little practice, you can make flavorful and delicious Tsukune Yakitori at home using simple ingredients.",
                 "rating" : "5"
             },
             {
                 "id" : 3,
-                "img" : "https://media.istockphoto.com/id/476576550/photo/sushi.jpg?s=612x612&w=0&k=20&c=70a5oGvCSDI9SV0dKmmzvntF-hmvRW_kOpb4zO2WMhc=",
-                "ingredients" : "Nori seaweed, sushi rice, cucumber, avocado, crab meat",
-                "name": "Temaki Sushi",
-                "info" : "Temaki sushi, also known as a hand roll, is a type of sushi that is shaped like a cone and typically eaten with the hands. This recipe combines fresh avocado, cucumber, and crab meat with a spicy mayonnaise sauce, wrapped in a sheet of nori seaweed and sushi rice.",
-                "method" : "1. Lay a sheet of nori seaweed on a flat surface with the shiny side facing down.\n2. Wet your hands with water and take a small amount of sushi rice (about 1/4 cup) and spread it evenly over the nori, leaving a 1-inch border at the top of the sheet.\n3. Place a few slices of avocado, cucumber, and crab meat on top of the rice.\n4. In a small bowl, mix together the mayonnaise and sriracha sauce. Drizzle the sauce over the ingredients in the roll.\n5. Roll the sushi by tucking the bottom edge of the nori sheet over the ingredients, then rolling it tightly towards the top border of the sheet, forming a cone shape.\n6. Serve with soy sauce on the side for dipping.",
+                "img" : "https://media.istockphoto.com/id/1477779652/photo/japanese-skewered-chicken-skewers-on-a-green-plate-on-a-black-background.jpg?s=612x612&w=0&k=20&c=a5Lb2qc9IH1idnYXaUaf7nR3fWP4vVRQdAPlCULwwqI=",
+                "ingredients" : "Chicken thighs, soy sauce, mirin, sake, and green onions",
+                "name": "Momo Yakitori",
+                "info" : "Momo Yakitori is a popular Japanese grilled chicken skewer dish made from chicken thigh meat. The chicken is seasoned with salt, pepper, and other spices before being skewered and grilled over charcoal. It is often served with a variety of dipping sauces such as soy sauce, salt, or a sweet and savory tare sauce.",
+                "method" : "To make Momo Yakitori, start by cutting boneless chicken thighs into bite-size pieces and skewering them onto bamboo sticks. Preheat the grill to medium-high heat and grill the skewers, turning occasionally, until the chicken is cooked through and slightly charred. In a small saucepan, heat up soy sauce, mirin, sugar, and sake to a boil and then simmer until the sauce thickens. Brush the sauce onto the grilled Momo Yakitori and serve hot. Momo Yakitori is a popular Japanese dish that is perfect as an appetizer or main dish. With a little practice, you can make flavorful and delicious Momo Yakitori at home using simple ingredients.",
                 "rating" : "5"
             }
         ]
